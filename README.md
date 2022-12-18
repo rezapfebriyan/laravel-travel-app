@@ -9,7 +9,7 @@
  
 ## Requirement sistem
 
-- Laravel 7.0 keatas, yang di install dan bisa running di komputer kamu. Guide install laravel ada disini (https://laravel.com/docs/7.x/installation)
+- Laravel 6.0 keatas, yang di install dan bisa running di komputer kamu. Guide install laravel ada disini (https://laravel.com/docs/6.x/installation)
 - PHP 7 keatas
 - MySQL
 - Local server untuk running database, Misalnya MAMP, Apache atau WAMP (XAMPP untuk Windows)
